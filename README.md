@@ -1,3 +1,11 @@
+# What I've Modified
+
+12/2/2024
+
+* Switched the API call to use the graphql endpoint at GitHub
+* Call access token from secure storage (Cloudflare)
+---
+
 <img src="assets/media/thumbnail.png">
 
 ---
